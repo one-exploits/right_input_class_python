@@ -5,8 +5,26 @@ class info:
  #######################################################
  .
  .
+ .
+ .
  why i build this(?):
-           
+ 	achualy i was making program for each lesson in PHYSICS**
+ 	I was need to input prompt for int,string,float data type
+        using Object Oriented Guidlines (oop)
+
+
+
+clases:
+	Int(massage,color);
+	Float(massage,color);
+	String(massage,color);
+	
+		
+Function:	
+	int_data();
+	float_data();
+	str_data();
+	              
  """
 
 
